@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.29+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>25305</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>468</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>25305</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>468</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|664682453|gb|CP008801.1|</Hit_id>
+  <Hit_def>Escherichia coli KLY, complete genome</Hit_def>
+  <Hit_accession>CP008801</Hit_accession>
+  <Hit_len>4718545</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2835646</Hsp_hit-from>
+      <Hsp_hit-to>2836112</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|557270520|emb|HG738867.1|</Hit_id>
+  <Hit_def>Escherichia coli str. K-12 substr. MC4100 complete genome</Hit_def>
+  <Hit_accession>HG738867</Hit_accession>
+  <Hit_len>4527247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3924657</Hsp_hit-from>
+      <Hsp_hit-to>3924191</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|545778205|gb|U00096.3|</Hit_id>
+  <Hit_def>Escherichia coli str. K-12 substr. MG1655, complete genome</Hit_def>
+  <Hit_accession>U00096</Hit_accession>
+  <Hit_len>4641652</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2859124</Hsp_hit-from>
+      <Hsp_hit-to>2859590</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|383101383|gb|CP002291.1|</Hit_id>
+  <Hit_def>Escherichia coli P12b, complete genome</Hit_def>
+  <Hit_accession>CP002291</Hit_accession>
+  <Hit_len>4935294</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3092037</Hsp_hit-from>
+      <Hsp_hit-to>3092503</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|359330873|dbj|AP012306.1|</Hit_id>
+  <Hit_def>Escherichia coli str. K-12 substr. MDS42 DNA, complete genome</Hit_def>
+  <Hit_accession>AP012306</Hit_accession>
+  <Hit_len>3976195</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2369659</Hsp_hit-from>
+      <Hsp_hit-to>2370125</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|315134697|dbj|AP012030.1|</Hit_id>
+  <Hit_def>Escherichia coli DH1 (ME8569) DNA, complete genome</Hit_def>
+  <Hit_accession>AP012030</Hit_accession>
+  <Hit_len>4621430</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2837032</Hsp_hit-from>
+      <Hsp_hit-to>2837498</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|260447279|gb|CP001637.1|</Hit_id>
+  <Hit_def>Escherichia coli DH1, complete genome</Hit_def>
+  <Hit_accession>CP001637</Hit_accession>
+  <Hit_len>4630707</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1024639</Hsp_hit-from>
+      <Hsp_hit-to>1024173</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|238859724|gb|CP001396.1|</Hit_id>
+  <Hit_def>Escherichia coli BW2952, complete genome</Hit_def>
+  <Hit_accession>CP001396</Hit_accession>
+  <Hit_len>4578159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2742958</Hsp_hit-from>
+      <Hsp_hit-to>2743424</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|169887498|gb|CP000948.1|</Hit_id>
+  <Hit_def>Escherichia coli str. K12 substr. DH10B, complete genome</Hit_def>
+  <Hit_accession>CP000948</Hit_accession>
+  <Hit_len>4686137</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2949688</Hsp_hit-from>
+      <Hsp_hit-to>2950154</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|85674274|dbj|AP009048.1|</Hit_id>
+  <Hit_def>Escherichia coli str. K12 substr. W3110 DNA, complete genome</Hit_def>
+  <Hit_accession>AP009048</Hit_accession>
+  <Hit_len>4646332</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2857780</Hsp_hit-from>
+      <Hsp_hit-to>2858246</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|882596|gb|U29579.1|ECU29579</Hit_id>
+  <Hit_def>Escherichia coli K-12 genome; approximately 61 to 62 minutes</Hit_def>
+  <Hit_accession>U29579</Hit_accession>
+  <Hit_len>72221</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>31428</Hsp_hit-from>
+      <Hsp_hit-to>31894</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|146905|gb|M64730.1|ECOMUTS</Hit_id>
+  <Hit_def>Escherichia coli DNA mismatch repair protein (fdv) gene, complete cds</Hit_def>
+  <Hit_accession>M64730</Hit_accession>
+  <Hit_len>3327</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.802</Hsp_bit-score>
+      <Hsp_score>900</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2710</Hsp_hit-from>
+      <Hsp_hit-to>3176</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>464</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|595593103|gb|CP007391.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST540, complete genome</Hit_def>
+  <Hit_accession>CP007391</Hit_accession>
+  <Hit_len>4875682</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>782.145</Hsp_bit-score>
+      <Hsp_score>866</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1140812</Hsp_hit-from>
+      <Hsp_hit-to>1140346</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>457</Hsp_identity>
+      <Hsp_positive>457</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | |||||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|595588540|gb|CP007390.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST540, complete genome</Hit_def>
+  <Hit_accession>CP007390</Hit_accession>
+  <Hit_len>4807977</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>782.145</Hsp_bit-score>
+      <Hsp_score>866</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1050373</Hsp_hit-from>
+      <Hsp_hit-to>1049907</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>457</Hsp_identity>
+      <Hsp_positive>457</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | |||||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|595583568|gb|CP007265.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST540, complete genome</Hit_def>
+  <Hit_accession>CP007265</Hit_accession>
+  <Hit_len>4758629</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>782.145</Hsp_bit-score>
+      <Hsp_score>866</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2345534</Hsp_hit-from>
+      <Hsp_hit-to>2345068</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>457</Hsp_identity>
+      <Hsp_positive>457</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | |||||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|309700213|emb|FN649414.1|</Hit_id>
+  <Hit_def>Escherichia coli ETEC H10407, complete genome</Hit_def>
+  <Hit_accession>FN649414</Hit_accession>
+  <Hit_len>5153435</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>782.145</Hsp_bit-score>
+      <Hsp_score>866</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3152898</Hsp_hit-from>
+      <Hsp_hit-to>3153364</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>457</Hsp_identity>
+      <Hsp_positive>457</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | |||||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|443419838|gb|CP004009.1|</Hit_id>
+  <Hit_def>Escherichia coli APEC O78, complete genome</Hit_def>
+  <Hit_accession>CP004009</Hit_accession>
+  <Hit_len>4798435</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>764.111</Hsp_bit-score>
+      <Hsp_score>846</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3591232</Hsp_hit-from>
+      <Hsp_hit-to>3591698</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>453</Hsp_identity>
+      <Hsp_positive>453</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCGGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCGACGCAAGTGGATGGTACGCAGATGTCTTTGCTGTCAGTGCCAGAAGAAACTTCGCCTGCGGTCGAAGCACTGGAAAATCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||| ||||||| ||||||||||||||||||||||||||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|257762509|dbj|AP010960.1|</Hit_id>
+  <Hit_def>Escherichia coli O111:H- str. 11128 DNA, complete genome</Hit_def>
+  <Hit_accession>AP010960</Hit_accession>
+  <Hit_len>5371077</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>749.684</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3424525</Hsp_hit-from>
+      <Hsp_hit-to>3424991</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACTTCGCCTGCGGTCGAAGCACTGGAAAATCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||||||||||||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|257751862|dbj|AP010953.1|</Hit_id>
+  <Hit_def>Escherichia coli O26:H11 str. 11368 DNA, complete genome</Hit_def>
+  <Hit_accession>AP010953</Hit_accession>
+  <Hit_len>5697240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>749.684</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3739352</Hsp_hit-from>
+      <Hsp_hit-to>3739818</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACTTCGCCTGCGGTCGAAGCACTGGAAAATCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||||||||||||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|218430358|emb|CU928163.2|</Hit_id>
+  <Hit_def>Escherichia coli UMN026 chromosome, complete genome</Hit_def>
+  <Hit_accession>CU928163</Hit_accession>
+  <Hit_len>5202090</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>746.078</Hsp_bit-score>
+      <Hsp_score>826</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3165229</Hsp_hit-from>
+      <Hsp_hit-to>3165695</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>449</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCTGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTGTTTGCTACCCATTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTGGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCGGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACGTCGCCTGCGGTCGAAGCACTGGAAAATCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||| ||||||||||||||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|2822121|gb|U69873.1|ECU69873</Hit_id>
+  <Hit_def>Escherichia coli DNA mismatch repair protein (mutS) gene, complete cds</Hit_def>
+  <Hit_accession>U69873</Hit_accession>
+  <Hit_len>2736</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>746.078</Hsp_bit-score>
+      <Hsp_score>826</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2119</Hsp_hit-from>
+      <Hsp_hit-to>2585</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>449</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCTAATATTCT-GCATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_hseq>
+      <Hsp_midline>|| |||||| | ||||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||| | ||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|628075004|gb|CP007136.1|</Hit_id>
+  <Hit_def>Escherichia coli O145:H28 str. RM12581, complete genome</Hit_def>
+  <Hit_accession>CP007136</Hit_accession>
+  <Hit_len>5585611</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3482877</Hsp_hit-from>
+      <Hsp_hit-to>3483343</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCACTGGCATGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACCTCACCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||| || ||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|628026570|gb|CP007133.1|</Hit_id>
+  <Hit_def>Escherichia coli O145:H28 str. RM12761, complete genome</Hit_def>
+  <Hit_accession>CP007133</Hit_accession>
+  <Hit_len>5402281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3410489</Hsp_hit-from>
+      <Hsp_hit-to>3410955</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCACTGGCATGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACCTCACCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||| || ||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|573966439|gb|CP006027.1|</Hit_id>
+  <Hit_def>Escherichia coli O145:H28 str. RM13514, complete genome</Hit_def>
+  <Hit_accession>CP006027</Hit_accession>
+  <Hit_len>5585613</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3482880</Hsp_hit-from>
+      <Hsp_hit-to>3483346</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCACTGGCATGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACCTCACCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||| || ||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|573932891|gb|CP006262.1|</Hit_id>
+  <Hit_def>Escherichia coli O145:H28 str. RM13516, complete genome</Hit_def>
+  <Hit_accession>CP006262</Hit_accession>
+  <Hit_len>5402276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3410485</Hsp_hit-from>
+      <Hsp_hit-to>3410951</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCACTGGCATGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTGCCAGAAGAAACCTCACCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||| || ||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|407062746|gb|CP003301.1|</Hit_id>
+  <Hit_def>Escherichia coli O104:H4 str. 2009EL-2071, complete genome</Hit_def>
+  <Hit_accession>CP003301</Hit_accession>
+  <Hit_len>5312586</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1203637</Hsp_hit-from>
+      <Hsp_hit-to>1203171</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|407051884|gb|CP003289.1|</Hit_id>
+  <Hit_def>Escherichia coli O104:H4 str. 2011C-3493, complete genome</Hit_def>
+  <Hit_accession>CP003289</Hit_accession>
+  <Hit_len>5273097</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1210435</Hsp_hit-from>
+      <Hsp_hit-to>1209969</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|406775301|gb|CP003297.1|</Hit_id>
+  <Hit_def>Escherichia coli O104:H4 str. 2009EL-2050, complete genome</Hit_def>
+  <Hit_accession>CP003297</Hit_accession>
+  <Hit_len>5253138</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1213896</Hsp_hit-from>
+      <Hsp_hit-to>1213430</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|218350208|emb|CU928145.2|</Hit_id>
+  <Hit_def>Escherichia coli 55989 chromosome, complete genome</Hit_def>
+  <Hit_accession>CU928145</Hit_accession>
+  <Hit_len>5154862</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.668</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3072747</Hsp_hit-from>
+      <Hsp_hit-to>3073213</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|257757386|dbj|AP010958.1|</Hit_id>
+  <Hit_def>Escherichia coli O103:H2 str. 12009 DNA, complete genome</Hit_def>
+  <Hit_accession>AP010958</Hit_accession>
+  <Hit_len>5449314</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.061</Hsp_bit-score>
+      <Hsp_score>816</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3323269</Hsp_hit-from>
+      <Hsp_hit-to>3323735</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAATGCCACCGAAT-ATAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTAGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACTTCGCCTGCGGTCGAGGCACTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||| || ||||||| | |||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||| ||||||||||||||||||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|218359353|emb|CU928160.2|</Hit_id>
+  <Hit_def>Escherichia coli IAI1 chromosome, complete genome</Hit_def>
+  <Hit_accession>CU928160</Hit_accession>
+  <Hit_len>4700560</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.061</Hsp_bit-score>
+      <Hsp_score>816</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2905247</Hsp_hit-from>
+      <Hsp_hit-to>2905713</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTATTGATGGATGAGATCGGGCGCGGGACGTCCACTTACGATGGTCTGTCGCTGGCATGGGCATGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACTTCGCCTGCGGTCGAGGCACTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | |||||||||| || ||||||||||||||||| || |||||||| |||||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|187427012|gb|CP001063.1|</Hit_id>
+  <Hit_def>Shigella boydii CDC 3083-94, complete genome</Hit_def>
+  <Hit_accession>CP001063</Hit_accession>
+  <Hit_len>4615997</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.061</Hsp_bit-score>
+      <Hsp_score>816</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2933880</Hsp_hit-from>
+      <Hsp_hit-to>2933414</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGACGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| |||||||||||||||||| |||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|157076741|gb|CP000800.1|</Hit_id>
+  <Hit_def>Escherichia coli E24377A, complete genome</Hit_def>
+  <Hit_accession>CP000800</Hit_accession>
+  <Hit_len>4979619</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.061</Hsp_bit-score>
+      <Hsp_score>816</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3035005</Hsp_hit-from>
+      <Hsp_hit-to>3035471</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAATGCCACCGAAT-ATAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAATTTCGCCTGCGGTCGAGGCACTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||| || ||||||| | |||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||| ||||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|81244029|gb|CP000036.1|</Hit_id>
+  <Hit_def>Shigella boydii Sb227, complete genome</Hit_def>
+  <Hit_accession>CP000036</Hit_accession>
+  <Hit_len>4519823</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.061</Hsp_bit-score>
+      <Hsp_score>816</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2794111</Hsp_hit-from>
+      <Hsp_hit-to>2793645</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGACGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| |||||||||||||||||| |||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|595607150|gb|CP007394.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST2747, complete genome</Hit_def>
+  <Hit_accession>CP007394</Hit_accession>
+  <Hit_len>5090442</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>731.651</Hsp_bit-score>
+      <Hsp_score>810</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3640231</Hsp_hit-from>
+      <Hsp_hit-to>3640697</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGGACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGTTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACGTCGCCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||| |||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|595602589|gb|CP007393.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST2747, complete genome</Hit_def>
+  <Hit_accession>CP007393</Hit_accession>
+  <Hit_len>4998910</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>731.651</Hsp_bit-score>
+      <Hsp_score>810</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3697955</Hsp_hit-from>
+      <Hsp_hit-to>3698421</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGGACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGTTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACGTCGCCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||| |||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|595597955|gb|CP007392.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST2747, complete genome</Hit_def>
+  <Hit_accession>CP007392</Hit_accession>
+  <Hit_len>5054509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>731.651</Hsp_bit-score>
+      <Hsp_score>810</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3702872</Hsp_hit-from>
+      <Hsp_hit-to>3703338</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGGACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGTTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACGTCGCCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||| |||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|81239530|gb|CP000034.1|</Hit_id>
+  <Hit_def>Shigella dysenteriae Sd197, complete genome</Hit_def>
+  <Hit_accession>CP000034</Hit_accession>
+  <Hit_len>4369232</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>728.044</Hsp_bit-score>
+      <Hsp_score>806</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2715346</Hsp_hit-from>
+      <Hsp_hit-to>2715812</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>445</Hsp_identity>
+      <Hsp_positive>445</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCACTGGCATGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCATCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCCGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAACATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACACAAATGTCTTTGCTGTCCGTACCGGAAGAAACCTCGCCTGCGGTCGAGGCACTGGAAAACCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||||||| |||| ||||| |||||||| |||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|664693170|gb|CP005998.1|</Hit_id>
+  <Hit_def>Escherichia coli B7A, complete genome</Hit_def>
+  <Hit_accession>CP005998</Hit_accession>
+  <Hit_len>4944397</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>722.634</Hsp_bit-score>
+      <Hsp_score>800</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>4205136</Hsp_hit-from>
+      <Hsp_hit-to>4204670</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>444</Hsp_identity>
+      <Hsp_positive>444</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAATGCCACCGAAT-ATAGTCTGGTATTGATGGATGAGATCGGGCGTGGAACGTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCGCTGGAGCACGGAGACACCATTGCCTTTATGCATAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||| || ||||||| | |||||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|313848522|emb|AM946981.2|</Hit_id>
+  <Hit_def>Escherichia coli BL21(DE3), complete genome</Hit_def>
+  <Hit_accession>AM946981</Hit_accession>
+  <Hit_len>4558947</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.027</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2699085</Hsp_hit-from>
+      <Hsp_hit-to>2699551</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACTTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|296142109|gb|CP001509.3|</Hit_id>
+  <Hit_def>Escherichia coli BL21(DE3), complete genome</Hit_def>
+  <Hit_accession>CP001509</Hit_accession>
+  <Hit_len>4558953</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.027</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2699091</Hsp_hit-from>
+      <Hsp_hit-to>2699557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACTTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|253972022|gb|CP000819.1|</Hit_id>
+  <Hit_def>Escherichia coli B str. REL606, complete genome</Hit_def>
+  <Hit_accession>CP000819</Hit_accession>
+  <Hit_len>4629812</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.027</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2753984</Hsp_hit-from>
+      <Hsp_hit-to>2754450</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACTTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|253322479|gb|CP001665.1|</Hit_id>
+  <Hit_def>Escherichia coli &apos;BL21-Gold(DE3)pLysS AG&apos;, complete genome</Hit_def>
+  <Hit_accession>CP001665</Hit_accession>
+  <Hit_len>4570938</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.027</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1040813</Hsp_hit-from>
+      <Hsp_hit-to>1040347</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACTTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|169752989|gb|CP000946.1|</Hit_id>
+  <Hit_def>Escherichia coli ATCC 8739, complete genome</Hit_def>
+  <Hit_accession>CP000946</Hit_accession>
+  <Hit_len>4746218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.027</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1064938</Hsp_hit-from>
+      <Hsp_hit-to>1064472</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACTTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|157065147|gb|CP000802.1|</Hit_id>
+  <Hit_def>Escherichia coli HS, complete genome</Hit_def>
+  <Hit_accession>CP000802</Hit_accession>
+  <Hit_len>4643538</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.027</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2876542</Hsp_hit-from>
+      <Hsp_hit-to>2877008</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAGT-ACAGTCTGGTGCTGATGGATGAGATTGGGCGCGGAACTTCCACTTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAAGCGTTGACGCTGTTTGCCACCCACTATTTCGAGCTGACACAGTTACCGGAGAAAATGGAAGGCGTCGCCAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTGATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCAGTACCGGAAGAAACCTCGCCAGCGGTCGAAGCTCTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||| | ||||||||||| | ||||||||||| ||||| ||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||| | ||||| |||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|544200787|gb|CP006584.1|</Hit_id>
+  <Hit_def>Escherichia coli LY180, complete genome</Hit_def>
+  <Hit_accession>CP006584</Hit_accession>
+  <Hit_len>4835601</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>713.617</Hsp_bit-score>
+      <Hsp_score>790</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2914334</Hsp_hit-from>
+      <Hsp_hit-to>2914800</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTACATCTCGATGCGCTGGAGCACGGCGACACTATCGCCTTTATGCACAGCGTGCAGGACGGCGCGGCGAGCAAAAGCTACGGTCTGGCGGTTGCTGCTCTGGCGGGCGTACCGAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACTTCGCCTGCGGTCGAGGCACTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||| ||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||| |||||||| ||||| || ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|383403426|gb|CP002967.1|</Hit_id>
+  <Hit_def>Escherichia coli W, complete genome</Hit_def>
+  <Hit_accession>CP002967</Hit_accession>
+  <Hit_len>4897452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>713.617</Hsp_bit-score>
+      <Hsp_score>790</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3005534</Hsp_hit-from>
+      <Hsp_hit-to>3006000</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTACATCTCGATGCGCTGGAGCACGGCGACACTATCGCCTTTATGCACAGCGTGCAGGACGGCGCGGCGAGCAAAAGCTACGGTCTGGCGGTTGCTGCTCTGGCGGGCGTACCGAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACTTCGCCTGCGGTCGAGGCACTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||| ||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||| |||||||| ||||| || ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|383390031|gb|CP002970.1|</Hit_id>
+  <Hit_def>Escherichia coli KO11FL, complete genome</Hit_def>
+  <Hit_accession>CP002970</Hit_accession>
+  <Hit_len>5021812</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>713.617</Hsp_bit-score>
+      <Hsp_score>790</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>1984396</Hsp_hit-from>
+      <Hsp_hit-to>1983930</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTACATCTCGATGCGCTGGAGCACGGCGACACTATCGCCTTTATGCACAGCGTGCAGGACGGCGCGGCGAGCAAAAGCTACGGTCTGGCGGTTGCTGCTCTGGCGGGCGTACCGAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGCTGTCCGTACCAGAAGAAACTTCGCCTGCGGTCGAGGCACTGGAAAACCTGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||| ||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||| |||||||| ||||| || ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||||| || |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|374269796|emb|HE616528.1|</Hit_id>
+  <Hit_def>Shigella sonnei 53G main chromosome, complete genome</Hit_def>
+  <Hit_accession>HE616528</Hit_accession>
+  <Hit_len>4988504</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>713.617</Hsp_bit-score>
+      <Hsp_score>790</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>3155180</Hsp_hit-from>
+      <Hsp_hit-to>3155646</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTACATCTCGATGCGCTGGAGCACGGCGACACTATCGCCTTTATGCACAGCGTGCAGGACGGCGCGGCGAGCAAAAGCTACGGTCTGGCGGTTGCTGCTCTGGCGGGCGTACCGAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCGACGCAAGTGGATGGTACGCAGATGTCTTTGCTGTCAGTGCCAGAAGAAACTTCGCCTGCGGTCGAAGCACTGGAAAATCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||| ||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||| |||||||| ||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||| ||||||| ||||||||||||||||||||||||||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|342360612|gb|AE005674.2|</Hit_id>
+  <Hit_def>Shigella flexneri 2a str. 301, complete genome</Hit_def>
+  <Hit_accession>AE005674</Hit_accession>
+  <Hit_len>4607202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>713.617</Hsp_bit-score>
+      <Hsp_score>790</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>2828249</Hsp_hit-from>
+      <Hsp_hit-to>2828715</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>GCCAATATTTTTGCATAACGC-ACCGAATTACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCGGAAAATCTGGCGAATAAGATTAAGGCATTGACGTTATTTGCTACCCACTATTTCGAGCTGACCCAGTTACCGGAGAAAATGGAAGGCGTCGCTAACGTGCATCTCGATGCACTGGAGCACGGCGACACCATTGCCTTTATGCACAGCGTGCAGGATGGCGCGGCGAGCAAAAGCTACGGCCTGGCGGTTGCAGCTCTGGCAGGCGTGCCAAAAGAGGTTATTAAGCGCGCACGGCAAAAGCTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCTACGCAAGTGGATGGTACGCAAATGTCTTTGTTGTCAGTACCAGAAGAAACTTCGCCTGCGGTCGAAGCTCTGGAAAATCTTGA</Hsp_qseq>
+      <Hsp_hseq>GCCAATATTTTA-CATAACGCCACCGAAT-ACAGTCTGGTGTTAATGGATGAGATCGGGCGTGGAACGTCCACCTACGATGGTCTGTCGCTGGCGTGGGCGTGCGCAGAAAATCTGGCGAATAAGATTAAGGCATTGACGCTGTTTGCCACCCACTATTTCGAGCTGACCCAGCTACCGGAGAAAATGGAAGGCGTCGCCAACGTACATCTCGATGCGCTGGAGCACGGCGACACTATCGCCTTTATGCACAGCGTGCAGGACGGCGCGGCGAGCAAAAGCTACGGTCTGGCGGTTGCTGCTCTGGCGGGCGTACCGAAAGAGGTTATTAAGCGCGCACGGCAAAAACTGCGTGAGCTGGAAAGCATTTCGCCGAACGCCGCCGCGACGCAAGTGGATGGTACGCAGATGTCTTTGCTGTCAGTGCCAGAAGAAACTTCGCCTGCGGTCGAAGCACTGGAAAATCTCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  |||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| | ||||| |||||||||||||||||||||||| ||||||||||||||||||||||||| ||||| ||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||| |||||||| ||||| || ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||| ||||||| ||||||||||||||||||||||||||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>23834655</Statistics_db-num>
+      <Statistics_db-len>62612722869</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

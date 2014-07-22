@@ -1,0 +1,2735 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.29+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>70333</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>138</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>70333</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>138</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|260447279|gb|CP001637.1|</Hit_id>
+  <Hit_def>Escherichia coli DH1, complete genome</Hit_def>
+  <Hit_accession>CP001637</Hit_accession>
+  <Hit_len>4630707</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>250.151</Hsp_bit-score>
+      <Hsp_score>276</Hsp_score>
+      <Hsp_evalue>3.19907e-63</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2670741</Hsp_hit-from>
+      <Hsp_hit-to>2670604</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>1405023</Hsp_hit-from>
+      <Hsp_hit-to>1405090</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATTGGACGGCACGGTGCAAAAGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||| ||||| ||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|257757386|dbj|AP010958.1|</Hit_id>
+  <Hit_def>Escherichia coli O103:H2 str. 12009 DNA, complete genome</Hit_def>
+  <Hit_accession>AP010958</Hit_accession>
+  <Hit_len>5449314</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>226.707</Hsp_bit-score>
+      <Hsp_score>250</Hsp_score>
+      <Hsp_evalue>3.65014e-56</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3147554</Hsp_hit-from>
+      <Hsp_hit-to>3147417</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGTTCTGCATTACCTGTTGGTGTGCCTGTTCCGTGGCCTTCAGTCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| || |||||||||||||||| ||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|42407|emb|X01805.1|</Hit_id>
+  <Hit_def>E. coli K12 DNA fragment for invertible-P region of the excisable element e14</Hit_def>
+  <Hit_accession>X01805</Hit_accession>
+  <Hit_len>2614</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>226.707</Hsp_bit-score>
+      <Hsp_score>250</Hsp_score>
+      <Hsp_evalue>3.65014e-56</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>ATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>ATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|218363708|emb|CU928161.2|</Hit_id>
+  <Hit_def>Escherichia coli S88 chromosome, complete genome</Hit_def>
+  <Hit_accession>CU928161</Hit_accession>
+  <Hit_len>5032268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>214.084</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>2.30349e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2840326</Hsp_hit-from>
+      <Hsp_hit-to>2840189</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTAGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||||||||| ||||| ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>123.915</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>3.20473e-25</Hsp_evalue>
+      <Hsp_query-from>53</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2807260</Hsp_hit-from>
+      <Hsp_hit-to>2807175</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>86</Hsp_align-len>
+      <Hsp_qseq>CTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CTTGGTTTAGGGGATGGCTCTGCATTACCTGTTGGTGTCCCTGTTCCGTGGCCTTCTGCCACTCCACCGACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||||| || || |||||||||||||||||||||||||| |||||||||||||| |||||||| || |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|91070629|gb|CP000243.1|</Hit_id>
+  <Hit_def>Escherichia coli UTI89, complete genome</Hit_def>
+  <Hit_accession>CP000243</Hit_accession>
+  <Hit_len>5065741</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>214.084</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>2.30349e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2907989</Hsp_hit-from>
+      <Hsp_hit-to>2907852</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTAGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||||||||| ||||| ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|443419838|gb|CP004009.1|</Hit_id>
+  <Hit_def>Escherichia coli APEC O78, complete genome</Hit_def>
+  <Hit_accession>CP004009</Hit_accession>
+  <Hit_len>4798435</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>208.674</Hsp_bit-score>
+      <Hsp_score>230</Hsp_score>
+      <Hsp_evalue>9.79468e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1002016</Hsp_hit-from>
+      <Hsp_hit-to>1002153</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACGGTGAAAACAGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCGGTTGGTGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCAACGGGGTGGCTAAAATG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| |||| ||||||||||||||||||||||||||||||||||||||||| |||||||| || ||||||||||||||||||||||||||||| || ||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>131.129</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.15933e-27</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1004184</Hsp_hit-from>
+      <Hsp_hit-to>1004095</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCGGTTGGTGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCAACGGGGTGGCTAAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||| |||||||| || ||||||||||||||||||||||||||||| || ||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>7.05888e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>664643</Hsp_hit-from>
+      <Hsp_hit-to>664710</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGTGATATCAAATCGGATGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||||||||||||||| ||| |||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|309700213|emb|FN649414.1|</Hit_id>
+  <Hit_def>Escherichia coli ETEC H10407, complete genome</Hit_def>
+  <Hit_accession>FN649414</Hit_accession>
+  <Hit_len>5153435</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.067</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>1.19324e-49</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>331638</Hsp_hit-from>
+      <Hsp_hit-to>331775</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>128</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACGGTGAAAACAGCTCTCGAAAACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGCGTGCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| |||| ||||||||||||||||||||||||||||| || |||||||| ||||| || || |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>125.719</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.1817e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2956392</Hsp_hit-from>
+      <Hsp_hit-to>2956324</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>4.75624e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>4719602</Hsp_hit-from>
+      <Hsp_hit-to>4719670</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| ||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|307625127|gb|CP002167.1|</Hit_id>
+  <Hit_def>Escherichia coli UM146, complete genome</Hit_def>
+  <Hit_accession>CP002167</Hit_accession>
+  <Hit_len>4993013</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.067</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>1.19324e-49</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>734433</Hsp_hit-from>
+      <Hsp_hit-to>734571</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCG-AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTAGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGTAAAACCKTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||||||||| ||||| ||| |||||||||||| |||||| |||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|290760697|gb|CP001846.1|</Hit_id>
+  <Hit_def>Escherichia coli O55:H7 str. CB9615, complete genome</Hit_def>
+  <Hit_accession>CP001846</Hit_accession>
+  <Hit_len>5386352</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.657</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>5.07377e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3164948</Hsp_hit-from>
+      <Hsp_hit-to>3164811</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACCGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGTTCTGCATTACCTGTTGGTGCGCCTGTTCCGTGGCCTTCTGAGACACCTCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||||||||| |||||||||||||||||||  || |||||||||||||| |  || || ||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>4.75624e-23</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2178133</Hsp_hit-from>
+      <Hsp_hit-to>2178042</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>GAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCTGTTGGTGTACCTGTTCCATGGCCCTCAGCCACGCCGCCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||| |||||||||||| | ||||||||||| || ||||| ||||| |||||||| |||||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>107.685</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>2.46379e-20</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2176043</Hsp_hit-from>
+      <Hsp_hit-to>2176134</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>GAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GAAAACGTTGGTTTGGGGGAAGGCTCGGCGCTGCCCGTTGGTGTGCCCGTTCCATGGCCTTCAGCCACGCCGCCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||| |||||||| ||  | || |||||||| || ||||| |||||||||||||| |||||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2178573</Hsp_hit-from>
+      <Hsp_hit-to>2178481</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>CGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CGAAAACGTTGGTTTGGGGGAAGGCTCTGCGCTGCCCGTTGGTGTGCCCGTTCCATGGCCCTCAGCCACGCTGCCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||| |||||||||||  | || |||||||| || ||||| ||||| |||||||| | |||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>104.078</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>3.00151e-19</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2176557</Hsp_hit-from>
+      <Hsp_hit-to>2176648</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>GAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GAAAACGTTGGTTTAGGAGAAGGTTCTGCACTGCCCGTTGGTGTGCCCGTTCCGTGGCCCTTAGCAACACCACCAACGGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||| |||||||| |||||| | || |||||||| || ||||||||||| | ||| || || ||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>6</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2175601</Hsp_hit-from>
+      <Hsp_hit-to>2175696</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTTGATTACCTTGGTTTGGGGGAAGGCTCTGCGCTGCCCGTTGGTGTGCCCGTTCCATGGCCCTCAGCCACGCTGCCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||| ||  ||||||||||||| |||||||||||  | || |||||||| || ||||| ||||| |||||||| | |||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|585410610|dbj|AB906050.1|</Hit_id>
+  <Hit_def>Uncultured archaeon DNA, putative 16S rRNA region, clone: E-27</Hit_def>
+  <Hit_accession>AB906050</Hit_accession>
+  <Hit_len>1197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.179</Hsp_bit-score>
+      <Hsp_score>174</Hsp_score>
+      <Hsp_evalue>1.55345e-35</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>356</Hsp_hit-from>
+      <Hsp_hit-to>445</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|549811571|gb|CP006698.1|</Hit_id>
+  <Hit_def>Escherichia coli C321.deltaA, complete sequence</Hit_def>
+  <Hit_accession>CP006698</Hit_accession>
+  <Hit_len>4643553</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.179</Hsp_bit-score>
+      <Hsp_score>174</Hsp_score>
+      <Hsp_evalue>1.55345e-35</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1216722</Hsp_hit-from>
+      <Hsp_hit-to>1216633</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>125.719</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.1817e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1214837</Hsp_hit-from>
+      <Hsp_hit-to>1214905</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>2475977</Hsp_hit-from>
+      <Hsp_hit-to>2475910</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATTGGACGGCACGGTGCAAAAGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||| ||||| ||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|545778205|gb|U00096.3|</Hit_id>
+  <Hit_def>Escherichia coli str. K-12 substr. MG1655, complete genome</Hit_def>
+  <Hit_accession>U00096</Hit_accession>
+  <Hit_len>4641652</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.179</Hsp_bit-score>
+      <Hsp_score>174</Hsp_score>
+      <Hsp_evalue>1.55345e-35</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1209623</Hsp_hit-from>
+      <Hsp_hit-to>1209534</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>125.719</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.1817e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1207737</Hsp_hit-from>
+      <Hsp_hit-to>1207805</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>2471949</Hsp_hit-from>
+      <Hsp_hit-to>2471882</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATTGGACGGCACGGTGCAAAAGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||| ||||| ||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|315134697|dbj|AP012030.1|</Hit_id>
+  <Hit_def>Escherichia coli DH1 (ME8569) DNA, complete genome</Hit_def>
+  <Hit_accession>AP012030</Hit_accession>
+  <Hit_len>4621430</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.179</Hsp_bit-score>
+      <Hsp_score>174</Hsp_score>
+      <Hsp_evalue>1.55345e-35</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1188276</Hsp_hit-from>
+      <Hsp_hit-to>1188187</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>125.719</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.1817e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1186390</Hsp_hit-from>
+      <Hsp_hit-to>1186458</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>2456830</Hsp_hit-from>
+      <Hsp_hit-to>2456763</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATTGGACGGCACGGTGCAAAAGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||| ||||| ||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|85674274|dbj|AP009048.1|</Hit_id>
+  <Hit_def>Escherichia coli str. K12 substr. W3110 DNA, complete genome</Hit_def>
+  <Hit_accession>AP009048</Hit_accession>
+  <Hit_len>4646332</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.179</Hsp_bit-score>
+      <Hsp_score>174</Hsp_score>
+      <Hsp_evalue>1.55345e-35</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1211200</Hsp_hit-from>
+      <Hsp_hit-to>1211111</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>125.719</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.1817e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1209314</Hsp_hit-from>
+      <Hsp_hit-to>1209382</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>2477395</Hsp_hit-from>
+      <Hsp_hit-to>2477328</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATTGGACGGCACGGTGCAAAAGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||| ||||| ||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|383395249|gb|JQ086369.1|</Hit_id>
+  <Hit_def>Enterobacteria phage HK106, complete genome</Hit_def>
+  <Hit_accession>JQ086369</Hit_accession>
+  <Hit_len>41468</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.573</Hsp_bit-score>
+      <Hsp_score>170</Hsp_score>
+      <Hsp_evalue>1.89249e-34</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>19797</Hsp_hit-from>
+      <Hsp_hit-to>19894</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>93</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>GCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GCTCGCACAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |  ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|6901584|gb|AF069529.1|AF069529</Hit_id>
+  <Hit_def>Bacteriophage HK97, complete genome</Hit_def>
+  <Hit_accession>AF069529</Hit_accession>
+  <Hit_len>39732</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.573</Hsp_bit-score>
+      <Hsp_score>170</Hsp_score>
+      <Hsp_evalue>1.89249e-34</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>19701</Hsp_hit-from>
+      <Hsp_hit-to>19798</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>93</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>GCTCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GCTCGCACAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |  ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|456174097|gb|KC618326.1|</Hit_id>
+  <Hit_def>Enterobacteria phage P2, complete genome</Hit_def>
+  <Hit_accession>KC618326</Hit_accession>
+  <Hit_len>31200</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.966</Hsp_bit-score>
+      <Hsp_score>166</Hsp_score>
+      <Hsp_evalue>2.30552e-33</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>21756</Hsp_hit-from>
+      <Hsp_hit-to>21851</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>91</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCTGTTCCGTGGCCTTCAGCTACGCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|215263233|emb|FM180568.1|</Hit_id>
+  <Hit_def>Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69</Hit_def>
+  <Hit_accession>FM180568</Hit_accession>
+  <Hit_len>4965553</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>143.752</Hsp_bit-score>
+      <Hsp_score>158</Hsp_score>
+      <Hsp_evalue>3.4217e-31</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2977578</Hsp_hit-from>
+      <Hsp_hit-to>2977664</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>CCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGCGTCCCTGTTCCGTGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||| ||||| |||||||||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.36269e-23</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1893704</Hsp_hit-from>
+      <Hsp_hit-to>1893612</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>CGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CGAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>113.095</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>5.79428e-22</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1892127</Hsp_hit-from>
+      <Hsp_hit-to>1892218</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>GAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTGCCCGTTCCATGGCCCTCAGCCACGCCGCCAACGGGATGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||| |||||||||||| | || |||||||| || ||||| ||||| |||||||| |||||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>107.685</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>2.46379e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2749430</Hsp_hit-from>
+      <Hsp_hit-to>2749498</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATTGGACGGCACGGTGCAAAAGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||| ||||| ||||||| ||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1891684</Hsp_hit-from>
+      <Hsp_hit-to>1891779</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTTGATTACCTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTGCCCGTTCCGTGGTCCTCAGCAACACCACCAACGGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||| ||  ||||||||||||| |||||||||||| | || |||||||| || ||||||||| | ||||| || || ||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>6</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>58</Hsp_query-to>
+      <Hsp_hit-from>2589366</Hsp_hit-from>
+      <Hsp_hit-to>2589309</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGT</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|605511148|gb|CP007530.1|</Hit_id>
+  <Hit_def>Salmonella enterica subsp. enterica serovar Montevideo str. 507440-20, complete genome</Hit_def>
+  <Hit_accession>CP007530</Hit_accession>
+  <Hit_len>4694375</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.949</Hsp_bit-score>
+      <Hsp_score>156</Hsp_score>
+      <Hsp_evalue>1.19429e-30</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>889687</Hsp_hit-from>
+      <Hsp_hit-to>889777</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>86</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAATCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|349736152|gb|CP003034.1|</Hit_id>
+  <Hit_def>Escherichia coli O7:K1 str. CE10, complete genome</Hit_def>
+  <Hit_accession>CP003034</Hit_accession>
+  <Hit_len>5313531</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.949</Hsp_bit-score>
+      <Hsp_score>156</Hsp_score>
+      <Hsp_evalue>1.19429e-30</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1770672</Hsp_hit-from>
+      <Hsp_hit-to>1770577</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCACATACCTTGGTTTGGGAGAAGGCTCTGCATTACCGGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||  | ||||||||||||||||||||||||||||||| ||||| || || ||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>104.078</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>3.00151e-19</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1295440</Hsp_hit-from>
+      <Hsp_hit-to>1295529</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCATTGCCTGTTGGTGTACCGGTTCCGTGGCCCACCGCCACACCGCCAGAAGGCTGGTTAAAGTG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||||| ||||||||||| ||||||||||||||  | ||||| ||||||  ||||||| | || ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>104.078</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>3.00151e-19</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>72</Hsp_query-to>
+      <Hsp_hit-from>3125668</Hsp_hit-from>
+      <Hsp_hit-to>3125597</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTC</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGTGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGAAAATCTTGGTTTGGGAGATGGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||||||||| ||||| ||| |||||||||||||||| |||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>87.848</Hsp_bit-score>
+      <Hsp_score>96</Hsp_score>
+      <Hsp_evalue>2.30756e-14</Hsp_evalue>
+      <Hsp_query-from>51</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1297064</Hsp_hit-from>
+      <Hsp_hit-to>1296977</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>ACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>ACCTTGGTTTGGGGGAAGGCTCGGCGCTGCCCGTTGGTGTACCTGTTCCGTGGCCCACTGCCACACCGCCAGCAGGCTGGTTAAAGTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||| |||||||| ||  | || |||||||| || |||||||||||  | ||||| |||||| |||||||| | || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|332341332|gb|CP002729.1|</Hit_id>
+  <Hit_def>Escherichia coli UMNK88, complete genome</Hit_def>
+  <Hit_accession>CP002729</Hit_accession>
+  <Hit_len>5186416</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.949</Hsp_bit-score>
+      <Hsp_score>156</Hsp_score>
+      <Hsp_evalue>1.19429e-30</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>939248</Hsp_hit-from>
+      <Hsp_hit-to>939343</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| |||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1014588</Hsp_hit-from>
+      <Hsp_hit-to>1014491</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCC--GGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCCTGTTCCCGTGGCCTTCAGCTACGCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | |||||||||||||||||||||||||||||||||||||||||||  | | |||||||||||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>4.75624e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>327556</Hsp_hit-from>
+      <Hsp_hit-to>327624</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| ||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|218368405|emb|CU928164.2|</Hit_id>
+  <Hit_def>Escherichia coli IAI39 chromosome, complete genome</Hit_def>
+  <Hit_accession>CU928164</Hit_accession>
+  <Hit_len>5132068</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.949</Hsp_bit-score>
+      <Hsp_score>156</Hsp_score>
+      <Hsp_evalue>1.19429e-30</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1890482</Hsp_hit-from>
+      <Hsp_hit-to>1890387</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCACATACCTTGGTTTGGGAGAAGGCTCTGCATTACCGGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||  | ||||||||||||||||||||||||||||||| ||||| || || ||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>51</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2036560</Hsp_hit-from>
+      <Hsp_hit-to>2036647</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>ACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>ACCTTGGTTTGGGGGAAGGCTCTGCATTGCCTGTTGGTGTACCGGTTCCGTGGCCCACCGCCACACCGCCAGAAGGCTGGTTAAAGTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||| |||||||||||||| ||||||||||| ||||||||||||||  | ||||| ||||||  ||||||| | || ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>104.078</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>3.00151e-19</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>72</Hsp_query-to>
+      <Hsp_hit-from>2939813</Hsp_hit-from>
+      <Hsp_hit-to>2939742</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGGCTC</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGTGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGAAAATCTTGGTTTGGGAGATGGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||||||||| ||||| ||| |||||||||||||||| |||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>8.05418e-14</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2038184</Hsp_hit-from>
+      <Hsp_hit-to>2038095</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCGGCGCTGCCCGTTGGTGTACCTGTTCCGTGGCCCACTGCCACACCGCCAGCAGGCTGGTTAAAGTG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||| ||  | || |||||||| || |||||||||||  | ||||| |||||| |||||||| | || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|544340954|emb|HG428755.1|</Hit_id>
+  <Hit_def>Escherichia coli PMV-1 main chromosome, complete genome</Hit_def>
+  <Hit_accession>HG428755</Hit_accession>
+  <Hit_len>4984940</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2949096</Hsp_hit-from>
+      <Hsp_hit-to>2949185</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>7.05888e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>2951082</Hsp_hit-from>
+      <Hsp_hit-to>2951015</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACCGTGAAAACAGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| |||| ||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|383403426|gb|CP002967.1|</Hit_id>
+  <Hit_def>Escherichia coli W, complete genome</Hit_def>
+  <Hit_accession>CP002967</Hit_accession>
+  <Hit_len>4897452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>985662</Hsp_hit-from>
+      <Hsp_hit-to>985573</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCCGTTGGTGTCCCTGTTCCATGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||| ||||||||||| ||||| |||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>3.00417</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2312528</Hsp_hit-from>
+      <Hsp_hit-to>2312502</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>||||| | |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|383390031|gb|CP002970.1|</Hit_id>
+  <Hit_def>Escherichia coli KO11FL, complete genome</Hit_def>
+  <Hit_accession>CP002970</Hit_accession>
+  <Hit_len>5021812</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>4099885</Hsp_hit-from>
+      <Hsp_hit-to>4099974</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCCGTTGGTGTCCCTGTTCCATGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||| ||||||||||| ||||| |||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>3.00417</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2640228</Hsp_hit-from>
+      <Hsp_hit-to>2640254</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>||||| | |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|323376397|gb|CP002516.1|</Hit_id>
+  <Hit_def>Escherichia coli KO11, complete genome</Hit_def>
+  <Hit_accession>CP002516</Hit_accession>
+  <Hit_len>4920168</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3126245</Hsp_hit-from>
+      <Hsp_hit-to>3126334</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCCGTTGGTGTCCCTGTTCCATGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||| ||||||||||| ||||| |||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>3.00417</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1789903</Hsp_hit-from>
+      <Hsp_hit-to>1789929</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>||||| | |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|315059226|gb|CP002185.1|</Hit_id>
+  <Hit_def>Escherichia coli W, complete genome</Hit_def>
+  <Hit_accession>CP002185</Hit_accession>
+  <Hit_len>4900968</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>987949</Hsp_hit-from>
+      <Hsp_hit-to>987860</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCCGTTGGTGTCCCTGTTCCATGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||| ||||||||||| ||||| |||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>3.00417</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2315950</Hsp_hit-from>
+      <Hsp_hit-to>2315924</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>||||| | |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|294489418|gb|CP001969.1|</Hit_id>
+  <Hit_def>Escherichia coli IHE3034, complete genome</Hit_def>
+  <Hit_accession>CP001969</Hit_accession>
+  <Hit_len>5108383</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3059516</Hsp_hit-from>
+      <Hsp_hit-to>3059605</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>3061502</Hsp_hit-from>
+      <Hsp_hit-to>3061435</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTAGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||||||||| ||||| ||| |||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|115511419|gb|CP000468.1|</Hit_id>
+  <Hit_def>Escherichia coli APEC O1, complete genome</Hit_def>
+  <Hit_accession>CP000468</Hit_accession>
+  <Hit_len>5082025</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.146</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.16849e-30</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2921030</Hsp_hit-from>
+      <Hsp_hit-to>2921119</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTGCCTGTTCCATGGCCTTCAGCCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||||||||||||||||||||||||| || ||||| |||||||||||||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>2923016</Hsp_hit-from>
+      <Hsp_hit-to>2922949</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>68</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTAGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||||||||| ||||| ||| |||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>57.1907</Hsp_bit-score>
+      <Hsp_score>62</Hsp_score>
+      <Hsp_evalue>3.90761e-05</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>88</Hsp_query-to>
+      <Hsp_hit-from>2268200</Hsp_hit-from>
+      <Hsp_hit-to>2268155</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGT</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGCGCTGCAATACATGTAGGT</Hsp_hseq>
+      <Hsp_midline>||||| | |||||||||||||||||||| ||||| ||| ||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|30407157|emb|AL513382.1|</Hit_id>
+  <Hit_def>Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete chromosome</Hit_def>
+  <Hit_accession>AL513382</Hit_accession>
+  <Hit_len>4809037</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3539209</Hsp_hit-from>
+      <Hsp_hit-to>3539304</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| || |||||||| |||||||| || |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.36269e-23</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1572288</Hsp_hit-from>
+      <Hsp_hit-to>1572196</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>CGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CGAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>113.095</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>5.79428e-22</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1569706</Hsp_hit-from>
+      <Hsp_hit-to>1569795</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>111.292</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>2.0224e-21</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1569158</Hsp_hit-from>
+      <Hsp_hit-to>1569251</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>TCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCAAAAACCTTGGTTTGGGGGAAGGCTCGGCGCTGCCCGTTGGTGTGCCCGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||| |||||||| ||  | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>95.0615</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>1.55482e-16</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1571329</Hsp_hit-from>
+      <Hsp_hit-to>1571240</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCGTCAGCAACACTGCCAGAGGGATGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| ||||| || | ||||   || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>6</Hsp_num>
+      <Hsp_bit-score>95.0615</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>1.55482e-16</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1571801</Hsp_hit-from>
+      <Hsp_hit-to>1571712</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCGTCAGCAACACTGCCAGAGGGATGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| ||||| || | ||||   || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|485080253|gb|CP002099.1|</Hit_id>
+  <Hit_def>Salmonella enterica subsp. enterica serovar Typhi str. Ty21a, complete genome</Hit_def>
+  <Hit_accession>CP002099</Hit_accession>
+  <Hit_len>4791958</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3524869</Hsp_hit-from>
+      <Hsp_hit-to>3524964</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| || |||||||| |||||||| || |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.36269e-23</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1408849</Hsp_hit-from>
+      <Hsp_hit-to>1408941</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>CGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CGAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>4.75624e-23</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1411507</Hsp_hit-from>
+      <Hsp_hit-to>1411414</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>TCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCAAAAACCTTGGTTTGGGGGAAGGCTCGGCACTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||| |||||||| ||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>113.095</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>5.79428e-22</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1409336</Hsp_hit-from>
+      <Hsp_hit-to>1409425</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>95.0615</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>1.55482e-16</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1410959</Hsp_hit-from>
+      <Hsp_hit-to>1410870</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCGTCAGCAACACTGCCAGAGGGATGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| ||||| || | ||||   || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|374352002|gb|CP003278.1|</Hit_id>
+  <Hit_def>Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12, complete genome</Hit_def>
+  <Hit_accession>CP003278</Hit_accession>
+  <Hit_len>4768352</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3513506</Hsp_hit-from>
+      <Hsp_hit-to>3513601</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| || |||||||| |||||||| || |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.36269e-23</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1407822</Hsp_hit-from>
+      <Hsp_hit-to>1407914</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>CGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CGAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1409452</Hsp_hit-from>
+      <Hsp_hit-to>1409359</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>TCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCAAAAACCTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCGTCAGCAACACTGCCAGAGGGATGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||| |||||||||||| | || |||||||| || ||||||||||| ||||| || | ||||   || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|254590536|gb|CP001368.1|</Hit_id>
+  <Hit_def>Escherichia coli O157:H7 str. TW14359, complete genome</Hit_def>
+  <Hit_accession>CP001368</Hit_accession>
+  <Hit_len>5528136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2815790</Hsp_hit-from>
+      <Hsp_hit-to>2815695</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCGACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| || |||||||| |||||||| || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>308793</Hsp_hit-from>
+      <Hsp_hit-to>308861</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTTCAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| ||||| ||| ||||||||||  ||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|29140506|gb|AE014613.1|</Hit_id>
+  <Hit_def>Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome</Hit_def>
+  <Hit_accession>AE014613</Hit_accession>
+  <Hit_len>4791961</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3524869</Hsp_hit-from>
+      <Hsp_hit-to>3524964</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| || |||||||| |||||||| || |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.36269e-23</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1408849</Hsp_hit-from>
+      <Hsp_hit-to>1408941</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>CGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>CGAAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>114.899</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>1.66009e-22</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1411507</Hsp_hit-from>
+      <Hsp_hit-to>1411414</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>TCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCAAAAACCTTGGTTTGGGGGAAGGCTCKGCRCTGCCCGTTGGTGTGCCYGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||| |||||||| ||  | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>113.095</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>5.79428e-22</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1409336</Hsp_hit-from>
+      <Hsp_hit-to>1409425</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>95.0615</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>1.55482e-16</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>1410959</Hsp_hit-from>
+      <Hsp_hit-to>1410870</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCCGTTGGTGTACCTGTTCCGTGGCCGTCAGCAACACTGCCAGAGGGATGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||| |||||||||||| | || |||||||| || ||||||||||| ||||| || | ||||   || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|147273|gb|K00676.1|ECOPIN</Hit_id>
+  <Hit_def>E.coli pin gene coding for DNA-invertase, complete sequence</Hit_def>
+  <Hit_accession>K00676</Hit_accession>
+  <Hit_len>810</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.342</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.45494e-29</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>104</Hsp_hit-from>
+      <Hsp_hit-to>17</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCTATTGGTGTCCCGGTTCCGTGGCCTTCAGC--ATCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||   ||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|313848522|emb|AM946981.2|</Hit_id>
+  <Hit_def>Escherichia coli BL21(DE3), complete genome</Hit_def>
+  <Hit_accession>AM946981</Hit_accession>
+  <Hit_len>4558947</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>136.539</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>5.07825e-29</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>891584</Hsp_hit-from>
+      <Hsp_hit-to>891495</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGACTCTGCATTACCTGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCTACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||| |||||||||||||||||| || || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|296142109|gb|CP001509.3|</Hit_id>
+  <Hit_def>Escherichia coli BL21(DE3), complete genome</Hit_def>
+  <Hit_accession>CP001509</Hit_accession>
+  <Hit_len>4558953</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>136.539</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>5.07825e-29</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>891590</Hsp_hit-from>
+      <Hsp_hit-to>891501</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGACTCTGCATTACCTGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCTACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||| |||||||||||||||||| || || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|253972022|gb|CP000819.1|</Hit_id>
+  <Hit_def>Escherichia coli B str. REL606, complete genome</Hit_def>
+  <Hit_accession>CP000819</Hit_accession>
+  <Hit_len>4629812</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>136.539</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>5.07825e-29</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>903593</Hsp_hit-from>
+      <Hsp_hit-to>903504</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGACTCTGCATTACCTGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCTACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||| |||||||||||||||||| || || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|253322479|gb|CP001665.1|</Hit_id>
+  <Hit_def>Escherichia coli &apos;BL21-Gold(DE3)pLysS AG&apos;, complete genome</Hit_def>
+  <Hit_accession>CP001665</Hit_accession>
+  <Hit_len>4570938</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>136.539</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>5.07825e-29</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2890795</Hsp_hit-from>
+      <Hsp_hit-to>2890884</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGACTCTGCATTACCTGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCTACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||| |||||||||||||||||| || || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|195183127|dbj|AB426059.1|</Hit_id>
+  <Hit_def>Escherichia coli O111:H- DNA, genomic island GEI2.69</Hit_def>
+  <Hit_accession>AB426059</Hit_accession>
+  <Hit_len>16348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>136.539</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>5.07825e-29</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>12987</Hsp_hit-from>
+      <Hsp_hit-to>13076</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGTTCTGCATTACCTGTTGGTGTGCCTGTTCCGTGGCCTTCAGTCACACCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||| |||||||||||||||||||| || |||||||||||||||| ||| |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|666001753|gb|CP008805.1|</Hit_id>
+  <Hit_def>Escherichia coli O157:H7 str. SS17, complete genome</Hit_def>
+  <Hit_accession>CP008805</Hit_accession>
+  <Hit_len>5523849</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.129</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.15933e-27</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2812862</Hsp_hit-from>
+      <Hsp_hit-to>2812951</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCGACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||| || |||||||| |||||||| || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>308788</Hsp_hit-from>
+      <Hsp_hit-to>308856</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTTCAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| ||||| ||| ||||||||||  ||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|218425442|emb|CU928162.2|</Hit_id>
+  <Hit_def>Escherichia coli ED1a chromosome, complete genome</Hit_def>
+  <Hit_accession>CU928162</Hit_accession>
+  <Hit_len>5209548</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.129</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.15933e-27</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3024625</Hsp_hit-from>
+      <Hsp_hit-to>3024714</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCTGCATTACCGGTTGGGGTGCCTGTTCCGTGGCCTTCAGCCACACCGCCGACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||| ||||| || || |||||||||||||||||||| ||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|209157093|gb|CP001164.1|</Hit_id>
+  <Hit_def>Escherichia coli O157:H7 str. EC4115, complete genome</Hit_def>
+  <Hit_accession>CP001164</Hit_accession>
+  <Hit_len>5572075</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.129</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.15933e-27</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2814890</Hsp_hit-from>
+      <Hsp_hit-to>2814979</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTTCCGTGGCCTTCAGCCACTCCGCCGACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||| || |||||||| |||||||| || |||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>308793</Hsp_hit-from>
+      <Hsp_hit-to>308861</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGACGGCACGGTGAAAACGGCTCTTCAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| ||||| ||| ||||||||||  ||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|169752989|gb|CP000946.1|</Hit_id>
+  <Hit_def>Escherichia coli ATCC 8739, complete genome</Hit_def>
+  <Hit_accession>CP000946</Hit_accession>
+  <Hit_len>4746218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.129</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.15933e-27</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>3031198</Hsp_hit-from>
+      <Hsp_hit-to>3031287</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>AAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAACGTTGGTTTGGGAGAAGGCTCAGCATTACCCGTTGGCGTGCCTGTTCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||||||| |||||||| ||||| || || |||||||||||||| |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|374361841|gb|CP003110.1|</Hit_id>
+  <Hit_def>Escherichia coli O55:H7 str. RM12579 plasmid p12579_1, complete sequence</Hit_def>
+  <Hit_accession>CP003110</Hit_accession>
+  <Hit_len>94015</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>125.719</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.1817e-26</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>30262</Hsp_hit-from>
+      <Hsp_hit-to>30353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>GAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GAAAACGTTGGTTTGGGGGAAGGCTCAGCATTGCCTGTTGGCGTACCTGTTCCGTGGCCCTCAGCCACTCCGCCAACAGGCTGGCTAAAATG</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||| |||||||| ||||| |||||||| || || ||||||||||| |||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>105.882</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>8.59948e-20</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>32893</Hsp_hit-from>
+      <Hsp_hit-to>32798</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTTGATTACCTTGGTTTAGGAGAAGGCTCGGCGCTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCGCCAGCAGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||| ||  |||||||||| ||||||||||| ||  | || |||||||| || ||||||||||| |||||||| |||||| |||| |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>31294</Hsp_hit-from>
+      <Hsp_hit-to>31384</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTGGGGGAAGGCTCGGCACTGCCCGTTGGCGTGCCTGTTCCGTGGCCCTCAGCCACACCACCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||| |||||||| ||| | || ||||| || || ||||||||||| |||||||| || ||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>96.8649</Hsp_bit-score>
+      <Hsp_score>106</Hsp_score>
+      <Hsp_evalue>4.45464e-17</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>29785</Hsp_hit-from>
+      <Hsp_hit-to>29875</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTGGGGGAAGGCTCAGCATTGCCCGTTGGCGTGCCCGTTCCGTGGCCCTTAGAAACACCACCAACGGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||| |||||||| ||||| || ||||| || || ||||||||||| | ||  || || ||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>95.0615</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>1.55482e-16</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>30779</Hsp_hit-from>
+      <Hsp_hit-to>30870</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>GAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>GAAAACGTTGGTTTAGGGGAAGGATCGGCGCTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCACCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||| || ||||| || ||  | || |||||||| || ||||||||||| |||||||| || ||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|383101383|gb|CP002291.1|</Hit_id>
+  <Hit_def>Escherichia coli P12b, complete genome</Hit_def>
+  <Hit_accession>CP002291</Hit_accession>
+  <Hit_len>4935294</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>123.915</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>3.20473e-25</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2979568</Hsp_hit-from>
+      <Hsp_hit-to>2979473</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCACATACCTTGGTTTGGGAGAAGGTTCGGCATTACCCGTTGGTGTGCCTGTCCCGTGGCCTTCCGCCACTCCGCCAACAGGCTGGCTAAAATG</Hsp_hseq>
+      <Hsp_midline>||||  | ||||||||||||||||||| || |||||||| |||||||| || || ||||||||||| ||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|595607150|gb|CP007394.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST2747, complete genome</Hit_def>
+  <Hit_accession>CP007394</Hit_accession>
+  <Hit_len>5090442</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>120.309</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>3.90416e-24</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2931268</Hsp_hit-from>
+      <Hsp_hit-to>2931173</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCTGCGTTGCCTGTTGGCATACCAGTTCCTTGGCCTTCAGCTACGCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| ||||| || ||||||||  | || ||||| ||||||||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|595597955|gb|CP007392.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ST2747, complete genome</Hit_def>
+  <Hit_accession>CP007392</Hit_accession>
+  <Hit_len>5054509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>120.309</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>3.90416e-24</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2984630</Hsp_hit-from>
+      <Hsp_hit-to>2984535</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTCGCATACCTTGGTTTGGGAGAAGGTTCTGCGTTGCCTGTTGGCATACCAGTTCCTTGGCCTTCAGCTACGCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||||||||||||| ||||| || ||||||||  | || ||||| ||||||||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>114.899</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>1.66009e-22</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>4980727</Hsp_hit-from>
+      <Hsp_hit-to>4980637</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTGGGAGAAGGTTCTGCGTTGCCTGTTGGCATACCAGTTCCTTGGCCTTCAGCTACGCCGCCAACAGGCTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||| ||||| || ||||||||  | || ||||| ||||||||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|42224|emb|X62121.1|</Hit_id>
+  <Hit_def>E.coli plasmid p15B genes R, S, Sc, SvM1, SvMr, SvN, SvO, SvP, SvQ, T, min, lydA, lydB</Hit_def>
+  <Hit_accession>X62121</Hit_accession>
+  <Hit_len>8294</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>120.309</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>3.90416e-24</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>6378</Hsp_hit-from>
+      <Hsp_hit-to>6288</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTGGGGGAAGGCTCAGCATTGCCTGTTGGCGTACCTGTTCCGTGGCCCTCAGCCACTCCGCCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||| |||||||| ||||| |||||||| || || ||||||||||| ||||||||||||||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>2792</Hsp_hit-from>
+      <Hsp_hit-to>2887</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>TCTCGAAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>TCTTGATTACCTTGGTTTGGGGGAAGGCTCTGCACTGCCTGTTGGTGTGCCCGTTCCGTGGCCCTTAGAAACACCACCAACGGGCTGGCTAAAATG</Hsp_hseq>
+      <Hsp_midline>||| ||  ||||||||||||| |||||||||||| | ||||||||||| || ||||||||||| | ||  || || ||||| |||||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>4391</Hsp_hit-from>
+      <Hsp_hit-to>4301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTAGGGGAAGGCTCGGCGCTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCAGCCACACCGCCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| ||||||| || |||||||| ||  | || |||||||| || ||||||||||| |||||||| |||||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>102.275</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.04763e-18</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>4905</Hsp_hit-from>
+      <Hsp_hit-to>4815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTGGGGGAAGGCTCTGCACTGCCTGTTGGTGTGCCCGTTCCGTGGCCCTTAGAAACACCACCAACGGGCTGGCTAAAATG</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||| |||||||||||| | ||||||||||| || ||||||||||| | ||  || || ||||| |||||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>93.2581</Hsp_bit-score>
+      <Hsp_score>102</Hsp_score>
+      <Hsp_evalue>5.42686e-16</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>5419</Hsp_hit-from>
+      <Hsp_hit-to>5329</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTAGGGGAAGGCTCGGCGCTGCCCGTTGGTGTGCCTGTTCCGTGGCCCTCCGCCACACCACCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| ||||||| || |||||||| ||  | || |||||||| || ||||||||||| || ||||| || ||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>6</Hsp_num>
+      <Hsp_bit-score>87.848</Hsp_bit-score>
+      <Hsp_score>96</Hsp_score>
+      <Hsp_evalue>2.30756e-14</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>5906</Hsp_hit-from>
+      <Hsp_hit-to>5816</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>AAAACCTTGGTTTGGGAGAAGGCTCTGCATTACCTGTTGGTGTCCCGGTTCCGTGGCCTTCAGCCACTCCGCCAACAGGCTGGCTGAAATG</Hsp_qseq>
+      <Hsp_hseq>AAAACGTTGGTTTAGGGGAAGGCTCGGCGCTGCCCGTTGGTGTACCTGTTCCATGGCCCTCCGCCACACCACCAACGGGGTGGCTGAAATG</Hsp_hseq>
+      <Hsp_midline>||||| ||||||| || |||||||| ||  | || |||||||| || ||||| ||||| || ||||| || ||||| || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|628075004|gb|CP007136.1|</Hit_id>
+  <Hit_def>Escherichia coli O145:H28 str. RM12581, complete genome</Hit_def>
+  <Hit_accession>CP007136</Hit_accession>
+  <Hit_len>5585611</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>4.75624e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2566673</Hsp_hit-from>
+      <Hsp_hit-to>2566605</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>TCCGTTTGGCGATATCAAATCGGATGGCACTGTGCAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_qseq>
+      <Hsp_hseq>TCCGTTTGGCGATATCAAATCGGATGGCACGGTGAAAACGGCTCTCGAAAACCTTGGTTTGGGAGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||| ||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>23834655</Statistics_db-num>
+      <Statistics_db-len>62612721035</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
