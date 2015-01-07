@@ -1,4 +1,4 @@
 dependence
 ==========
 
-Scripts related to amino acid-dependence project
+Scripts related to NSAA-dependence project
